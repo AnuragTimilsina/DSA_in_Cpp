@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dsa_code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dsa_code">
+				<Option output="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/dsa_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 dsa_code"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dsa_code/fast">
+				<Option output="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/dsa_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 dsa_code/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/linkedList/linkedlist.cpp">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/linkedList/linkedlist.h">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/main.cpp">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/stack/main.cpp">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/stack/stack.cpp">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/stack/stack.h">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/stackLinkedList/linkedListStack.h">
+			<Option target="dsa_code"/>
+		</Unit>
+		<Unit filename="C:/Users/ASUS/Documents/programming/dsa/dsa_code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
