@@ -1,3 +1,0 @@
-C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/CMakeFiles/dsa_code.dir
-C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/Documents/programming/dsa/dsa_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
